@@ -1,0 +1,1 @@
+node cli/makefun.mjs submit --competition markdown-render-speed-02 --recording <id> --repo-url https://github.com/<owner>/<repo> --commit <sha> --title "<name>" --keypair <file> --repo <your repository>
